@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "GP7506",
+    "password": "EGTKxwnfTciAEW8T",
+    "database": "gp7506",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "GP7506",
+    "password": "EGTKxwnfTciAEW8T",
+    "database": "gp7506",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "GP7506",
+    "password": "EGTKxwnfTciAEW8T",
+    "database": "gp7506",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
